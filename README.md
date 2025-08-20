@@ -1,4 +1,4 @@
-# NeighblyHomePhysicsLab
+# Neighbly Home Physics Lab
 
 <div align="center">
 

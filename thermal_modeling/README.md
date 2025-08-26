@@ -77,10 +77,10 @@ Predictive model for optimal heating/cooling strategies based on:
 
 thermal_modeling/
 ├── README.md          # Research overview and methodology
-├── protocols          # Measurement procedures (to be added)
-├── data               # Experimental data (to be added)
-├── analysis           # Data processing scripts (to be added)
-└── models             # Computational models (to be added)
+├── protocols          # Measurement procedures
+├── data               # Experimental data 
+├── analysis           # Data processing scripts
+└── models             # Computational models
 
 ## Literature References
 

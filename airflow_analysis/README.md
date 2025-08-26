@@ -89,25 +89,6 @@ Integration of airflow patterns with thermal comfort parameters:
 4. **Air quality optimization protocols** for residential environments
 5. **Integration algorithms** for ArchNeighbly ventilation recommendations
 
-## File Organization
-
-```
-airflow_analysis/
-├── protocols/              # Detailed measurement and testing procedures
-├── data/                  # Raw experimental airflow and air quality data
-│   ├── baseline/          # Natural ventilation characterization
-│   ├── openings/          # Window/door configuration test results
-│   ├── configurations/    # Spatial arrangement impact studies
-│   └── air_quality/       # IAQ correlation measurements
-├── analysis/              # Data processing and CFD validation scripts
-├── models/                # Computational airflow models
-│   ├── ventilation_rate.py   # Air exchange calculations
-│   ├── flow_patterns.py      # Airflow direction and velocity modeling
-│   ├── mixing_efficiency.py # Air distribution uniformity assessment
-│   └── optimization.py       # Ventilation strategy optimization
-└── validation/            # Model validation against established standards
-```
-
 ## Computational Fluid Dynamics (CFD) Integration
 
 Advanced modeling capabilities include:

@@ -73,22 +73,14 @@ Predictive model for optimal heating/cooling strategies based on:
 3. **Evidence-based recommendations** for thermal optimization
 4. **Integration parameters** for ArchNeighbly algorithm enhancement
 
-## File Organization
+## Current Repository Structure
 
-```
 thermal_modeling/
-├── protocols/           # Detailed measurement procedures
-├── data/               # Raw experimental data
-│   ├── baseline/       # Initial environment characterization
-│   ├── materials/      # Material thermal property data
-│   └── configurations/ # Spatial arrangement test results
-├── analysis/           # Data processing scripts and statistical analysis
-├── models/             # Computational thermal models
-│   ├── heat_loss.py    # Heat transfer calculations
-│   ├── comfort_index.py # Thermal comfort modeling
-│   └── optimization.py # Energy optimization algorithms
-└── validation/         # Model validation against literature
-```
+├── README.md          # Research overview and methodology
+├── protocols          # Measurement procedures (to be added)
+├── data               # Experimental data (to be added)
+├── analysis           # Data processing scripts (to be added)
+└── models             # Computational models (to be added)
 
 ## Literature References
 

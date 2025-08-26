@@ -73,15 +73,6 @@ Predictive model for optimal heating/cooling strategies based on:
 3. **Evidence-based recommendations** for thermal optimization
 4. **Integration parameters** for ArchNeighbly algorithm enhancement
 
-## Current Repository Structure
-
-thermal_modeling/
-├── README.md          # Research overview and methodology
-├── protocols          # Measurement procedures
-├── data               # Experimental data 
-├── analysis           # Data processing scripts
-└── models             # Computational models
-
 ## Literature References
 
 - ASHRAE Handbook of Fundamentals (2021)

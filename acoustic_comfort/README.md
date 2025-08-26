@@ -94,19 +94,10 @@ Predictive model for acoustic enhancement through:
 
 ```
 acoustic_comfort/
-├── protocols/              # Detailed measurement and testing procedures
-├── data/                  # Raw experimental acoustic data
-│   ├── baseline/          # Ambient sound environment characterization
-│   ├── materials/         # Material acoustic property measurements
-│   ├── configurations/    # Spatial arrangement test results
-│   └── mitigation/        # Noise reduction strategy effectiveness
-├── analysis/              # Data processing and statistical analysis scripts
-├── models/                # Computational acoustic models
-│   ├── transmission.py    # Sound transmission calculations
-│   ├── reverberation.py   # RT60 and acoustic decay modeling
-│   ├── comfort_index.py   # Multi-parameter comfort assessment
-│   └── optimization.py    # Spatial acoustic optimization algorithms
-└── validation/            # Model validation against established standards
+├── protocols.md              # Detailed measurement and testing procedures
+├── data.md                  # Raw experimental acoustic data
+├── analysis.md              # Data processing and statistical analysis scripts
+└── models.md                # Computational acoustic models
 ```
 
 ## Literature References

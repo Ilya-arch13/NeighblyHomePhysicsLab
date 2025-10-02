@@ -19,15 +19,15 @@ This repository is an attempt to prove this relationship through code, transform
 This index (from 0 to 1) is a calculated average of two core components:
 
 * **The Function Index:** An objective score based on the physical performance of a space. It is calculated using modules that analyze:
-    * **Thermodynamics (`thermal.py`):** Heat loss, insulation efficiency, and airflow.
-    * **Optics (`optic.py`):** Natural light distribution, shadow analysis, and glare.
+    * **Thermodynamics (thermal.py):** Heat loss, insulation efficiency, and airflow.
+    * **Optics (optic.py):** Natural light distribution, shadow analysis, and glare.
 
 * **The Beauty Index:** A quantitative score derived from qualitative, human-centric data. This index will be developed by analyzing:
-    * **Social Metrics (`social.py`):** Data from real-world case studies on how people feel, interact, and thrive in different environments. This module is the proposed focus of my research collaboration at Cornell University.
+    * **Social Metrics (social.py):** Data from real-world case studies on how people feel, interact, and thrive in different environments. This module is the proposed focus of my research collaboration at Cornell University.
 
 ## The Vision
 
-The vision for this project extends beyond this repository. The `NeighblyHomePhysicsLab` engine is designed to be the "brain" behind applications like Neighbly, providing data-driven recommendations for improving our homes and communities.
+The vision for this project extends beyond this repository. The NeighblyHomePhysicsLab engine is designed to be the "brain" behind applications like Neighbly, providing data-driven recommendations for improving our homes and communities.
 
 I entered this journey with an app and a GitHub project. I plan to leave university with buildings powered by this same engine.
 
